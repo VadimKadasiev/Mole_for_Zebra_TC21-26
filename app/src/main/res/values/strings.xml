@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Кріт</string>
+    <string name="Пошук">Пошук</string>
+    <string name="Інше">Інше</string>
+    <string name="datawedge_intent_key_data">com.symbol.datawedge.data_string</string>
+    <string name="activity_intent_filter_action">com.scan.ACTION</string>
+    <string name="Version">Mole by Vadym Kadasiev V</string>
+    <string name="_1">1</string>
+    <string name="Додати">Додати</string>
+    <string name="Шукати">Шукати</string>
+    <string name="шо_шукаєм">шо шукаєм?</string>
+    <string name="Підтвердження">Підтвердження</string>
+    <string name="Доступні_файли">Доступні файли:</string>
+    <string name="Warning">Застосунок необхідно оновити. Зверніться до Вадима Кадасієва</string>
+</resources>

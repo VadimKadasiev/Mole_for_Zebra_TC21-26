@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_vertical" >
+
+    <TextView
+        android:id="@+id/goodsTextView"
+        android:layout_width="258dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="1dp"
+        android:background="#E9C8C5"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:gravity="start|center_vertical"
+        android:maxLines="1"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/factTextView"
+        android:background="#B6D3B8"
+        android:layout_width="44dp"
+        android:layout_marginStart="260dp"
+        android:layout_height="50dp"
+        android:textColor="#000000"
+        android:maxLines="1"
+        android:gravity="end|center_vertical"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/accountingTextView"
+        android:background="#E9C8C5"
+        android:layout_width="44dp"
+        android:layout_marginStart="305dp"
+        android:layout_height="50dp"
+        android:textColor="#000000"
+        android:maxLines="1"
+        android:gravity="end|center_vertical"
+        android:textSize="20sp" />
+</RelativeLayout>
